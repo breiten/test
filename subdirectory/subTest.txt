@@ -1,2 +1,4 @@
 - comment ... content .. 
 Endret innhold i denne filen.
+
+Blir ikke dette konflikter tro...
